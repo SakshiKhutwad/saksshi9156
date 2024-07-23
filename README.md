@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Khutwad</h1>
 <h3 align="center">A passionate backend (Spring Boot) java developer</h3>
 
-- 🔭 I’m currently working on **E- Commerce project**
 
-- 🌱 I’m currently learning **Web development tech stack**
-
-- 💬 Ask me about **Java Backend (Spring Boot)**
 
 - 📫 How to reach me **sakshikhutwad@gmail.com**
 
