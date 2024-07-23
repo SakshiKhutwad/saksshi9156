@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Khutwad</h1>
-<h3 align="center">A passionate backend (Spring Boot) java developer</h3>
+
 
 
 
